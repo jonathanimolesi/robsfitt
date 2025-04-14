@@ -1,0 +1,30 @@
+<!-- HTML para o carrinho de compras -->
+<div class="cart-toggle" id="cart-toggle">
+  <i class="fas fa-shopping-cart"></i>
+  <span class="cart-count" id="cart-count">0</span>
+</div>
+
+<div class="cart-container" id="cart-container">
+  <div class="cart-header">
+    <h3>Seu Carrinho</h3>
+    <button class="close-cart" id="close-cart">&times;</button>
+  </div>
+  
+  <div class="cart-items" id="cart-items">
+    <div class="empty-cart">Seu carrinho está vazio</div>
+  </div>
+  
+  <div class="cart-footer">
+    <div class="cart-total-container">
+      <span>Total:</span>
+      <span class="cart-total-value" id="cart-total">R$ 0,00</span>
+    </div>
+    
+    <div class="cart-actions">
+      <button class="cart-action-btn clear-cart-btn" id="clear-cart">Limpar</button>
+      <button class="cart-action-btn checkout-btn" id="checkout">Finalizar Pedido</button>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" id="cart-overlay"></div>

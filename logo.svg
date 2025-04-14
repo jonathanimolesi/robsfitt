@@ -1,0 +1,8 @@
+<!-- Logo SVG para Robs Fit -->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="90" fill="#4eb326" />
+  <circle cx="100" cy="100" r="80" fill="#fff" />
+  <text x="100" y="90" font-family="Arial" font-size="40" font-weight="bold" text-anchor="middle" fill="#4eb326">ROBS</text>
+  <text x="100" y="130" font-family="Arial" font-size="40" font-weight="bold" text-anchor="middle" fill="#4eb326">FIT</text>
+  <path d="M60,150 C60,150 80,160 100,160 C120,160 140,150 140,150" stroke="#4eb326" stroke-width="4" fill="none" />
+</svg>

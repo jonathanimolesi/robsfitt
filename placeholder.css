@@ -1,0 +1,13 @@
+.placeholder {
+  width: 100px;
+  height: 75px;
+  background-color: #f0f8eb;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #4eb326;
+  font-weight: bold;
+  font-size: 12px;
+  text-align: center;
+}
